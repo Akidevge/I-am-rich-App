@@ -1,6 +1,5 @@
 name: testing_flutter
 description: A new Flutter project.
-publish_to:
 version: 1.0.0+1
 environment:
   sdk: '>=3.0.5 <4.0.0'
